@@ -1,12 +1,10 @@
 const mongoose = require("mongoose");
 
-const { MONGODB_DATABASE, MONGODB_HOST } = process.env;
+//const { MONGODB_DATABASE, MONGODB_HOST } = process.env;
 
 // const MONGODB_URI = `mongodb://${
 //     MONGODB_HOST ? MONGODB_HOST : "localhost"
 // }/${MONGODB_DATABASE ? MONGODB_DATABASE : "notesdb"}`;
-
-
 const MONGODB_URI = 'mongodb+srv://crud:crud@cluster0.xrmsq.mongodb.net/notesdb';
 
 mongoose
