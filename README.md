@@ -25,6 +25,8 @@
 * Mongodb Cloud
 * Git
 * Heroku
+* Bootstrap
+* Html Plantillas hbs
 
 ## Paquetes NPM
  * @handlebars/allow-prototype-access ^1.0.3 
