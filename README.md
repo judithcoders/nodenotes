@@ -4,15 +4,15 @@
 
 ## Screenshots
 
-> Home de la app.
-![Screenshot](https://github.com/judithcoders/nodemongo/blob/master/img/screenshot1.PNG)
+> Home de la app.  
+![Screenshot](https://github.com/judithcoders/nodenotes/blob/master/img/screenshot1.PNG)
 > (Login) Acceso o Registrarse en la app.
-![Screenshot](https://github.com/judithcoders/nodemongo/blob/master/img/screenshot2.PNG)
-![Screenshot](https://github.com/judithcoders/nodemongo/blob/master/img/screenshot5.PNG)
+![Screenshot](https://github.com/judithcoders/nodenotes/blob/master/img/screenshot2.PNG)
+![Screenshot](https://github.com/judithcoders/nodenotes/blob/master/img/screenshot5.PNG)
 > Visualizar todas las notas 
-![Screenshot](https://github.com/judithcoders/nodemongo/blob/master/img/screenshot3.PNG)
+![Screenshot](https://github.com/judithcoders/nodenotes/blob/master/img/screenshot3.PNG)
 > Alta de notas 
-![Screenshot](https://github.com/judithcoders/nodemongo/blob/master/img/screenshot4.PNG)
+![Screenshot](https://github.com/judithcoders/nodenotes/blob/master/img/screenshot4.PNG)
 
 
 ## Technologies
