@@ -5,11 +5,11 @@
 ## Home de la app.  
 ![Screenshot](https://github.com/judithcoders/nodenotes/blob/master/img/screenshot1.PNG)
 
-## (Login) Acceso o Registrarse en la app.
+## (Login) Acceso o Registrarse 
 ![Screenshot](https://github.com/judithcoders/nodenotes/blob/master/img/screenshot2.PNG)
 ![Screenshot](https://github.com/judithcoders/nodenotes/blob/master/img/screenshot5.PNG)
 
-## Visualizar todas las notas 
+## Visualizar notas 
 ![Screenshot](https://github.com/judithcoders/nodenotes/blob/master/img/screenshot3.PNG)
 
 ## Alta de notas 
