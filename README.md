@@ -17,6 +17,8 @@
 ## Alta de notas 
 ![Screenshot](https://github.com/judithcoders/nodenotes/blob/master/img/screenshot4.PNG)
 
+## Acerca de
+![Screenshot](https://github.com/judithcoders/nodenotes/blob/master/img/screenshot6.PNG)
 
 ## Technologies
 * Nodejs
