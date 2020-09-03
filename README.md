@@ -4,14 +4,17 @@
 
 ## Screenshots
 
-> Home de la app.  
+## Home de la app.  
 ![Screenshot](https://github.com/judithcoders/nodenotes/blob/master/img/screenshot1.PNG)
-> (Login) Acceso o Registrarse en la app.
+
+## (Login) Acceso o Registrarse en la app.
 ![Screenshot](https://github.com/judithcoders/nodenotes/blob/master/img/screenshot2.PNG)
 ![Screenshot](https://github.com/judithcoders/nodenotes/blob/master/img/screenshot5.PNG)
-> Visualizar todas las notas 
+
+## Visualizar todas las notas 
 ![Screenshot](https://github.com/judithcoders/nodenotes/blob/master/img/screenshot3.PNG)
-> Alta de notas 
+
+## Alta de notas 
 ![Screenshot](https://github.com/judithcoders/nodenotes/blob/master/img/screenshot4.PNG)
 
 
