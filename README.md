@@ -2,8 +2,6 @@
 # APLICACIÓN DE NOTAS 
 > Se construye un demo para agregar notas 
 
-## Screenshots
-
 ## Home de la app.  
 ![Screenshot](https://github.com/judithcoders/nodenotes/blob/master/img/screenshot1.PNG)
 
@@ -20,7 +18,7 @@
 ## Acerca de
 ![Screenshot](https://github.com/judithcoders/nodenotes/blob/master/img/screenshot6.PNG)
 
-## Technologies
+## Tecnológias
 * Nodejs
 * Express
 * Templates hbs
